@@ -44,7 +44,7 @@
     "vscode": "^1.1.36"
   },
   "dependencies": {
-    "home-assistant-js-websocket": "4.5.0",
+    "home-assistant-js-websocket": "5.8.1",
     "vscode-json-languageservice": "3.5.1",
     "vscode-languageserver-protocol": "3.15.3",
     "vscode-uri": "2.1.1",
